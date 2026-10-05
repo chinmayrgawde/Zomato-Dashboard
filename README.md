@@ -48,3 +48,6 @@ Example: The dashboard was built using the following tools and technologies:
 
 Dashboard Looks like below:
 
+![Dashboard Preview](https://github.com/chinmayrgawde/Zomato-Dashboard/blob/main/Zomata%20Dashboard.PNG)
+
+
